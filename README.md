@@ -5,7 +5,7 @@ INTELLIJ IDEA
 ## 项目结构
 ```
 ├── README.md
-├── eapp-isv-project.iml
+├── isv-rds-subscription-tutorial-java.iml
 ├── lib
 │   ├── taobao-sdk-java-auto_1479188381469-20180801-source.jar
 │   └── taobao-sdk-java-auto_1479188381469-20180801.jar
@@ -13,7 +13,7 @@ INTELLIJ IDEA
 │   └── project.log
 ├── pom.xml
 └── src
-    ├── eapp-isv-project.sql
+    ├── isv-rds-subscription-tutorial-java.sql
     ├── main
     │   ├── java
     │   │   └── com

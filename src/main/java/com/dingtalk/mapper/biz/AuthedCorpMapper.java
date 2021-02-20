@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 
 /**
  * 开通应用的企业信息
- * 建表SQL参见项目中的eapp-isv-project.sql文件
+ * 建表SQL参见项目中的isv-rds-subscription-tutorial-java.sql文件
  */
 @Mapper
 public interface AuthedCorpMapper {
